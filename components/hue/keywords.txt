@@ -1,0 +1,3 @@
+Hue KEYWORD1
+turnLightsOn KEYWORD2
+turnLightsOff KEYWORD2
